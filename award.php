@@ -25,7 +25,7 @@
                 <div class="discover1 text-center">
                     <h4>DISCOVER : Dr. AHMED Achievements Journey</h4>
                     <div class="counternu mt-4 mb-3 text-center">
-                        <span class="firstco"><strong>1</strong></span><span>2</span>
+                        <span class="firstco"><strong>1</strong></span><span>2</span><span>3</span>
                     </div>
                 </div>
                 

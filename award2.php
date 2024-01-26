@@ -29,7 +29,7 @@
                 <div class="discover1 text-center">
                     <h4>DISCOVER : Dr. AHMED Achievements Journey</h4>
                     <div class="counternu mt-4 mb-3 text-center">
-                        <span class="firstco1">1</span><span class="firstco">2</span>
+                        <span class="firstco1">1</span><span class="firstco">2</span><span>3</span>
                     </div>
                 </div>
 
@@ -201,13 +201,13 @@
                                             <div class="row">
                                                 <div class="col-md-7">
                                                     <div class="awardtexted">
-                                                        <p> <br><br><br><br></p>
-                                                        <h5>Uploading.............</h5>
+                                                        <p>Delegates at Global Summit 2022</p>
+                                                        <h5>2022</h5>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-5">
                                                     <div class="imagesaward">
-                                                        <!-- <img src="images/awards/1.png" width="130px" height="140px" alt=""> -->
+                                                        <img src="images/awards/19.jpg" width="130px" height="140px" alt="" class="img-fluid" oncontextmenu="return false" />
                                                     </div>
                                                 </div>
                                             </div>
@@ -218,13 +218,13 @@
                                             <div class="row">
                                                 <div class="col-md-7">
                                                     <div class="awardtexted">
-                                                        <p> <br><br><br><br></p>
-                                                        <h5>Uploading.............</h5>
+                                                        <p>Aaj ka Karamveer Award - 2023</p>
+                                                        <h5>2023</h5>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-5">
                                                     <div class="imagesaward">
-                                                        <!-- <img src="images/awards/1.png" width="130px" height="140px" alt=""> -->
+                                                        <img src="images/awards/20.jpg" width="130px" height="140px" alt="" class="img-fluid" oncontextmenu="return false" />
                                                     </div>
                                                 </div>
                                             </div>
@@ -235,13 +235,13 @@
                                             <div class="row">
                                                 <div class="col-md-7">
                                                     <div class="awardtexted">
-                                                        <p> <br><br><br><br></p>
-                                                        <h5>Uploading.............</h5>
+                                                        <p>Mumbai-based peace activist Dr. Ahmed Haque was honoured with the United Nations Global Peace Ambassador Award</p>
+                                                        <h5>2023</h5>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-5">
                                                     <div class="imagesaward">
-                                                        <!-- <img src="images/awards/1.png" width="130px" height="140px" alt=""> -->
+                                                        <img src="images/awards/21.jpg" width="130px" height="140px" alt="" class="img-fluid" oncontextmenu="return false" />
                                                     </div>
                                                 </div>
                                             </div>
@@ -252,13 +252,30 @@
                                             <div class="row">
                                                 <div class="col-md-7">
                                                     <div class="awardtexted">
-                                                        <p> <br><br><br><br></p>
-                                                        <h5>Uploading.............</h5>
+                                                        <p>Doctorate with Dr.h.c.  L.H.D – from St. Mother Theresa University accredited by the JBR Harvard , USA , Affliated to Cambridge School , UK</p>
+                                                        <h5>2023</h5>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-5">
                                                     <div class="imagesaward">
-                                                        <!-- <img src="images/awards/1.png" width="130px" height="140px" alt=""> -->
+                                                        <img src="images/awards/22.jpg" width="130px" height="140px" alt="" class="img-fluid" oncontextmenu="return false" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 d-center">
+                                        <div class="slideimag">
+                                            <div class="row">
+                                                <div class="col-md-7">
+                                                    <div class="awardtexted">
+                                                        <p>Honoured at G20 Summit held at Vigyan Bhawan, Central Secretariat, New Delhi - 2023</p>
+                                                        <h5>2023</h5>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-5">
+                                                    <div class="imagesaward">
+                                                        <img src="images/awards/23.jpg" width="130px" height="140px" alt="" class="img-fluid" oncontextmenu="return false" />
                                                     </div>
                                                 </div>
                                             </div>
@@ -268,6 +285,11 @@
                                         <a href="award2.php"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
                                     </div> -->
                                 </div>
+                                <div class="nextbuttonnew">
+                                            <a href="award3.php">
+                                                <marquee direction="right"></i><i class="fa fa-chevron-right" aria-hidden="true"></i><i class="fa fa-chevron-right" aria-hidden="true"></i></marquee>
+                                            </a>
+                                        </div>
                             </div>
                         </div>
                     </div>
